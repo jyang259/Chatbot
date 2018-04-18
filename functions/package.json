@@ -1,0 +1,14 @@
+{
+  "name": "ask-name",
+  "description": "Get someone's name",
+  "version": "0.0.1",
+  "author": "Jenny Yang",
+  "engines": {
+    "node": "~4.2"
+  },
+  "dependencies": {
+    "actions-on-google": "^1.0.0",
+    "firebase-admin": "^4.2.1",
+    "firebase-functions": "^0.5.7"
+  }
+}
